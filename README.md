@@ -1,5 +1,7 @@
-# Wii U Hacks Guide
+# Homebrew Guide
 
-Nintendo Wii U homebrew guide written by staff members of the [Nintendo Homebrew Discord server.](https://discord.gg/C29hYvh)
+A Homebrew guide for the Nintendo Switch maintained by @Romanio0089
 
-[The guide can be found here!](https://wiiu.hacks.guide/)
+Guide software by: hacks.guide
+
+[Guide link!](https://homebrew-guide.github.io/)
