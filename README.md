@@ -1,4 +1,4 @@
-# Homebrew Guide
+# Homebrew Guide for Nintendo Switch
 
 The ULTIMATE Homebrew guide for Nintendo Switch ! UPDATED 17/06/2020 
 
